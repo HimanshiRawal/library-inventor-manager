@@ -1,0 +1,1 @@
+# library-inventor-manager
